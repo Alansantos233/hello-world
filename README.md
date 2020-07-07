@@ -1,2 +1,4 @@
 # hello-world
-Busca de aprendizado na programação
+My name is Alan dos Santos, I am an administrative assistant, graduated in Law and currently attending the 5th Semester of Public Administration Ead by the Federal University of Pampa, I have several extracurricular training courses. I have more than twenty years of experience in the administrative area, serving the public, in which I supported the financial and operational administrative processes and coordinated the business logistics in warehouses, performing HR assistant services by conducting several management and leadership courses in this interval. time. Acting in the purchasing and financing negotiations of the storekeeper.
+Currently, I am looking for a new opportunity in the market to expand my knowledge and experience in the area, and make my curriculum available. 
+I am studying web developer at Instituto Sul Rio Grandense, in Pelotas RS, looking for opportunities in the technological area.
